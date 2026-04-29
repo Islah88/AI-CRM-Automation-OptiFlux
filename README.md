@@ -1,6 +1,6 @@
 # 🚀 AI-CRM-Automation-OptiFlux
 
-![OptiFlux Dashboard](https://via.placeholder.com/1200x600?text=OptiFlux+CRM+Dashboard)
+![OptiFlux Dashboard](https://islah88.github.io/images/optiflux.png)
 
 ## 📌 À Propos du Projet
 **OptiFlux CRM** est une preuve de concept (PoC) "Enterprise-Ready" démontrant une expertise pointue en **automatisation de processus (ADV & CRM)** et en **intégration d'IA générative**. Ce projet simule un flux de travail similaire à ce que l'on pourrait construire avec **n8n**, mais en utilisant une architecture sur-mesure robuste.
