@@ -1,6 +1,10 @@
 # 🚀 AI-CRM-Automation-OptiFlux
 
 ![OptiFlux Dashboard](https://islah88.github.io/images/optiflux.png)
+![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)
+![Llama-3](https://img.shields.io/badge/Llama_3-Generative_AI-0466c8?style=for-the-badge)
 
 ## 📌 À Propos du Projet
 **OptiFlux CRM** est une preuve de concept (PoC) "Enterprise-Ready" démontrant une expertise pointue en **automatisation de processus (ADV & CRM)** et en **intégration d'IA générative**. Ce projet simule un flux de travail similaire à ce que l'on pourrait construire avec **n8n**, mais en utilisant une architecture sur-mesure robuste.
@@ -73,4 +77,10 @@ Ce projet a été développé pour illustrer des compétences avancées en **ing
 
 ---
 
-*Ce projet fait partie de mon portfolio professionnel d'Ingénieur IA / Automatisation.*
+---
+
+## 👨‍💻 À Propos de l'Auteur
+
+**El Islah Mhoma** — *Support IT & Management SI | Développeur Automatisation SaaS*
+- Passionné par l'infrastructure, la résolution de problèmes complexes (Support N2/N3) et la création d'outils internes pour soulager les équipes opérationnelles.
+- [LinkedIn](https://linkedin.com/in/el-islah-mhoma/) | [Portfolio](https://islah88.github.io/)
