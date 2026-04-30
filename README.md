@@ -78,6 +78,14 @@ Ce projet a été développé pour illustrer des compétences en **ingénierie I
 
 ---
 
+## 🛡️ Security & AI Safety (SecDevOps)
+
+L'un des défis majeurs de l'intégration de l'IA en entreprise est la sécurité des données et la prévention des attaques. Ce projet implémente les concepts clés du **DevSecOps IA** :
+
+- **Prévention de l'Indirect Prompt Injection (Data Poisoning) :** Les textes extraits des emails clients sont encapsulés dans des balises strictes (délimiteurs XML) et sanitizés avant d'être envoyés au LLM. Le *System Prompt* est verrouillé pour ignorer toute instruction malveillante cachée dans le corps de l'email.
+- **Validation Pydantic (Input/Output Validation) :** Aucune donnée n'entre ou ne sort du modèle d'IA sans être strictement typée et validée, bloquant nativement les payloads malveillants.
+- **API Rate Limiting :** Le backend FastAPI intègre `slowapi` pour limiter le nombre de requêtes par IP (prévention DDoS et Brute Force sur le Webhook).
+
 ---
 
 ## 👨‍💻 À Propos de l'Auteur
