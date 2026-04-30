@@ -7,7 +7,7 @@
 ![Llama-3](https://img.shields.io/badge/Llama_3-Generative_AI-0466c8?style=for-the-badge)
 
 ## 📌 À Propos du Projet
-**OptiFlux CRM** est une preuve de concept (PoC) "Enterprise-Ready" démontrant une expertise pointue en **automatisation de processus (ADV & CRM)** et en **intégration d'IA générative**. Ce projet simule un flux de travail similaire à ce que l'on pourrait construire avec **n8n**, mais en utilisant une architecture sur-mesure robuste.
+**OptiFlux CRM** est une preuve de concept (PoC) "Enterprise-Ready" qui démontre une expertise en **automatisation de processus (ADV & CRM)** et en **intégration d'IA générative**. Ce projet simule un flux de travail similaire à ce que l'on pourrait construire avec **n8n**, mais en utilisant une architecture sur-mesure.
 
 L'objectif : automatiser le tri, l'extraction de données et le routage des emails clients entrants (réclamations, demandes de devis, etc.) grâce au *Structured Output* d'un LLM (Llama-3).
 
@@ -30,9 +30,9 @@ Le projet est divisé en deux parties : un moteur de routage intelligent (Backen
 2. **Extraction de Données Structurées (Pydantic + Llama-3)** : Le système lit l'email et extrait :
    - L'intention principale (Urgence, Devis, Réclamation...).
    - Le niveau de priorité (Basse, Normale, Haute, Critique).
-   - Un résumé concis.
+   - Un résumé.
    - Une proposition de réponse en brouillon.
-3. **Tableau de Bord "Hubspot/Zendesk-like" (Next.js)** : Interface réactive permettant aux équipes ADV (Administration des Ventes) de superviser les requêtes triées en temps réel.
+3. **Tableau de Bord "Hubspot/Zendesk-like" (Next.js)** : Interface réactive permettant aux équipes Administration des Ventes de superviser les requêtes triées en temps réel.
 4. **Temps de Réponse Ultra-Rapide** : Utilisation de Llama-3 via Groq pour un traitement en quelques millisecondes, essentiel pour les flux d'automatisation haute fréquence.
 
 ---
@@ -70,9 +70,9 @@ npm run dev
 ---
 
 ## 💼 Contexte de Réalisation & Objectif
-Ce projet a été développé pour illustrer des compétences avancées en **ingénierie IA et automatisation**, avec un focus particulier sur les besoins métiers (ADV, support client). Il démontre une capacité à :
+Ce projet a été développé pour illustrer des compétences en **ingénierie IA et automatisation**, avec un focus particulier sur les besoins métiers (ADV, support client). Il démontre ma capacité à :
 - Comprendre les enjeux métiers liés à la gestion des flux d'information.
-- Concevoir des solutions techniques robustes (API, Webhooks).
+- Concevoir des solutions techniques (API, Webhooks).
 - Implémenter l'IA de manière déterministe (sans hallucination) dans un processus métier.
 
 ---
