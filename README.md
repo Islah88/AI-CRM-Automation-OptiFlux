@@ -14,6 +14,13 @@ L'objectif : automatiser le tri, l'extraction de données et le routage des emai
 
 ---
 
+## 🎬 Démo
+
+![OptiFlux Démo](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/optiflux.gif)
+> 📸 *Démonstration de la réception et du routage intelligent d'une requête client.*
+
+---
+
 ## 🏗️ Architecture Technique
 
 Le projet est divisé en deux parties : un moteur de routage intelligent (Backend) et un tableau de bord de supervision (Frontend).
